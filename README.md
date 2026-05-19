@@ -13,7 +13,7 @@ ChatTTS is a neural text-to-speech (TTS) model built for dialogue and LLM assist
 | سلام! امیدوارم روز خوبی داشته باشید. | [▶ Play Audio](./output/mms_05_hello.mp3) |
 | امیدوارم از این سیستم لذت ببرید. | [▶ Play Audio](./output/mms_10_enjoy.mp3) |
 ```
-
+---
 - **Architecture**: GPT-based autoregressive model + DVAE codec + Vocos vocoder
 - **Training data**: 40,000+ hours of speech
 - **RTF**: ~0.3 on RTX 5060
